@@ -1,0 +1,66 @@
+@startuml
+
+' Definição da classe Tutor
+class Tutor {
+    + id: int
+    + nome: string
+    + criarGuiaDeTutoria(): GuiaDeTutoria
+}
+
+' Definição da classe GuiaDeTutoria
+class GuiaDeTutoria {
+    + id: int
+    + titulo: string
+    + conteudo: string
+    + adicionarTutoria(Tutoria): void
+    + getTutoriaPorID(id: int): Tutoria
+    + salvarEmJSON(): JSON
+}
+
+' Definição da classe Tutoria
+class Tutoria {
+    + id: int
+    + tema: string
+    + conteudo: string
+    + data: date
+}
+
+' Definição da classe Chat-Its
+class ChatItsRedu {
+    + id: int
+    + processarPergunta(pergunta: string): string
+    + incorporarGuia(guia: GuiaDeTutoria): void
+    + apresentaResposta(resposta: string): string
+}
+
+' Definição da classe EmbeddingModel
+class EmbeddingModel {
+}
+
+' Definição da classe Aluno
+class Aluno {
+    + id: int
+    + nome: string
+    + fazerPergunta(pergunta: string): string
+}
+
+' Definição da classe JSON
+class JSON {
+    + titulo: string
+    + conteudo: string
+    + parse(): GuiaDeTutoria
+}
+
+' Relações
+Tutor "1" -- "1..*" GuiaDeTutoria : cria >
+GuiaDeTutoria "1" -- "1..*" Tutoria : contém >
+ChatItsRedu "1" -- "1..*" GuiaDeTutoria : incorpora >
+Aluno "0..*" -- "1" ChatItsRedu : usa >
+GuiaDeTutoria <.. JSON : { parse }
+ChatItsRedu "1..*" -> "1..*" Aluno: resposta incorporada
+Tutor "0..*" -> "0..*" Aluno: interaçoes interpessoais
+
+ChatItsRedu -> EmbeddingModel: implementa
+
+
+@enduml
