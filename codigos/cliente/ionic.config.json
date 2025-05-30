@@ -1,8 +1,0 @@
-{
-  "name": "its-redu",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite",
-  "id": "636b82c2"
-}
