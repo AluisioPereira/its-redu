@@ -1,0 +1,41 @@
+@startuml
+
+' PlantUML no Visual Studio Code (VSCode)
+' https://plantuml.com/
+
+class Curso {
+    
+}
+class Tutor {
+}
+class Aluno {
+}
+class Disciplina {
+}
+class Modulo {
+}
+class Aula {
+}
+class Material {
+}
+class ItsRedu {
+}
+
+Curso o-- Aluno: matriculado
+Aluno --> Disciplina: cursa
+Aluno --> Material: estuda
+Aluno --> Exercicio : realiza
+Curso o-- Tutor: tutoria
+Disciplina <|-- Modulo: é um
+
+ItsRedu --> Tutor : apoia
+ItsRedu --> Curso : analisa
+Tutor --> Disciplina: atua
+Tutor --> ItsRedu: pede apoio
+Tutor --> Aluno: busca ativa
+Curso *-- Disciplina: tem
+Modulo *-- Aula: possui
+Aula o-- Material: tem
+Aula o-- Exercicio: tem
+
+@enduml
