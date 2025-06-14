@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Its.Redu</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='/css/style.css') }}"
+      media="screen"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+  </head>
+  <body>
+    <div class="chat-its" id="chat-its">
+      <div class="chat-container" id="chat-container"></div>
+
+      <div class="input-container">
+        <input
+          type="text"
+          id="message-input"
+          placeholder="Digite uma pergunta ou comando"
+        />
+        <button onclick="sendMessage()">Enviar</button>
+      </div>
+      <div class="its-redu-informe">
+        <p style="color: rgb(97, 97, 252)">I</p>
+        <p style="color: rgb(253, 172, 51)">t</p>
+        <p style="color: rgb(3, 167, 39)">s</p>
+        <p style="color: rgb(93, 93, 97)">.</p>
+        <p style="color: rgb(3, 3, 219)">Redu</p>        
+      </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='/js/script.js') }}"></script>
+  </body>
+</html>

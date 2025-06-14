@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+.chat-container {
+    width: 75%;
+    height: 75%;
+    overflow-y: auto;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+    border-color: #007bff;
+}
+
+.input-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: fixed;    
+    bottom: 5px;
+    width: 90%;
+    background-color: #fff;
+}
+
+.input-container input {
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.input-container button {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+.its-redu-informe {
+    font-size: 9px;
+    color: #9b9b9b;
+    position: fixed; /* Mantém o elemento fixo na posição da tela */
+    bottom: 55px; /* Ajusta a distância do elemento ao fundo */
+    left: 50px; /* Alinha o elemento à esquerda da tela */
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;
+    padding: 1px;
+}
+
+.message {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.sender img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10%;
+}
+
+.receiver img {
+    width: 20px;
+    height: 20px;
+    border-radius: 10%;
+}
+
+.bubble {
+    max-width: 75%;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 2px;
+    margin-right: 30%;
+}
+
+.sender .bubble {
+    background-color: #f0f0f0;
+    color: #000;
+    align-self: center;    
+    margin-right: 2px;
+}
+
+.receiver .bubble {    
+    background-color: #007bff;
+    color: #fff;
+    align-self: flex-end;
+    margin-left: 2px;
+    margin-right: 30%;
+}
+
+.sender .sender-img {
+    margin-left: auto; /* Alinhar à direita dentro do balão do remetente */
+    margin-right: 10px; /* Adicionar margem à direita */
+}
+
+.receiver .sender-img {
+    margin-left: 10px; /* Alinhar à esquerda dentro do balão do destinatário */
+    margin-right: auto; /* Alinhar à direita dentro do balão do destinatário */
+}

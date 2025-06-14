@@ -1,0 +1,208 @@
+[
+    {
+        "Título": "Editar perfil (aluno)",
+        "Conteúdo": "Se você estiver na versão 1.0: Selecione ‘Editar’ nessa aba para alterar as informações que estarão disponibilizadas no seu perfil na aba ‘Perfil’ (como foto, nome, biografia, data de nascimento e informações adicionais) e salve as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página."
+    },
+    {
+      "Título": "Saiba mais (central de ajuda)",
+      "Conteúdo": "Ao lado direito da página inicial, abaixo de 'Explore o Redu', encontramos a aba 'Saiba Mais', em que é possível ler mais informações sobre o que é possível fazer com o Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo uma barra de pesquisa, guias de funcionamento do Redu e opções de atendimento online. [https://ajuda.redu.digital]"
+    },
+    {
+      "Título": "Ambientes (Administrador de Plataforma)",
+      "Conteúdo": "Ao fazer login em sua conta do Redu, no lado superior direito da página você encontrará uma lista dos ambientes disponíveis para seu acesso. Caso esteja inscrito em muitos cursos, clique em ‘ver todos’ para ter acesso à totalidade de cursos. Também é possível visualizar os ambientes na barra lateral esquerda, abaixo de ‘meu perfil’."
+    },
+    {
+      "Título": "Remover aula (Administrador de Plataforma)",
+      "Conteúdo": "Para remover uma aula, você deverá entrar na *Disciplina* que se encontra a aula, selecionar o *Módulo* dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. Em seguida, abrirá a opção da edição do módulo e ao descer a página, na listagem das aulas, na parte direita de cada uma delas haverá a opção de deletar, sinalizado por três pontos (...). Selecione os três pontos na aula que desejar deletar e depois clique em *'Excluir'*. Finalize o módulo para que as alterações sejam concluídas."
+    },
+    {
+      "Título": "Meu mural (Administrador de Plataforma)",
+      "Conteúdo": "Na parte central da página inicial de acesso, você terá as abas 'visão geral, 'meu mural' e 'seguindo'. Na aba 'meu mural', você será apresentado a todas as suas interações, atualizações, comentários realizados por você em toda a plataforma, e os seus emblemas conquistados. Além disso, também é possível compartilhar informações, pensamentos e anexar arquivos no seu mural, os quais apenas os seus amigos poderão visualizar e responder. Os arquivos anexados podem ser do tipo DOCS, PPTX, PDF e XLXS. Para anexar, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção 'Escolher arquivo', além disso, a caixa de texto não pode ficar em branco, então você deverá escrever algo e finalizar ao clicar em 'Enviar', representado pelo botão azul ao lado direito e inferior da caixa de comentários."
+    },
+    {
+        "Título": "Editar perfil (Administrador de Plataforma)",
+        "Conteúdo": "Selecione 'Editar Conta' e você poderá observar, ao lado esquerdo do seu monitor, opções para edição de 'Bio e Currículo' e 'Configurções de Conta'. Em  'Bio e Currículo' é possível alterar as informações que estarão disponibilizadas no seu perfil (como foto, nome, biografia, data de nascimento e informações adicionais). As alterações podem ser salvas ao clicar no botão azul, localizado no lado inferior direito da página. Já em clicando em 'Configurações de Conta', você pode alterar informações como senha, e-mail, recebimento de notificações por e-mail ou notificações push no celular. Ao terminar as edições, clique em 'Salvar', botão azul presente no espaço inferior direito. Ao lado esquerdo do botão 'Salvar', também existe a opção 'Deletar Conta'."},
+{
+        "Título": "Meus emblemas (Administrador de Plataforma)",
+        "Conteúdo": "Em ‘Meu perfil’ você pode poderá clicar em ‘Conquistas’ para visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados."},
+{
+        "Título": "Meu mural (Administrador de Plataforma)",
+        "Conteúdo": "Na parte central da página inicial de acesso, você terá as abas ‘visão geral’, ‘meu mural’ e ‘seguindo’. Na aba ‘meu mural’, você será apresentado a todas as suas interações, atualizações, comentários realizados por você em toda a plataforma, e os seus emblemas conquistados. Além disso, também é possível compartilhar informações, pensamentos e anexar arquivos no seu mural, os quais apenas os seus amigos poderão visualizar e responder. Os arquivos anexados podem ser do tipo DOCS, PPTX, PDF e XLXS. Para anexar, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção ‘Escolher arquivo’, além disso, a caixa de texto não pode ficar em branco, então você deverá escrever algo e finalizar ao clicar em ‘Enviar’, representado pelo botão azul ao lado direito e inferior da caixa de comentários."},
+{
+        "Título": "Meus contatos (Administrador de Plataforma)",
+        "Conteúdo": "A funcionalidade ‘meus contatos’ está disponível na parte inferior esquerda da tela. Ao clicar em ‘ver todos’, você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no ‘x’. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em ‘conectar’ quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade ‘sugestões de amizade’, disponível na parte inferior direita da página."},
+{
+        "Título": "Visão geral (Administrador de Plataforma)",
+        "Conteúdo": "Assim que feito o acesso ao Redu, você poderá visualizar a aba ‘Visão Geral’, que possui um mural geral da plataforma, contendo as atualizações realizadas por você e seus amigos, atalhos para os seus contatos, seus ambientes, suas conquistas, solicitações e sugestões de amizade e muito mais. Caso esteja em outra tela e deseje retornar à página inicial, basta clicar em ‘Redu’, na parte superior esquerda da tela."},
+{
+        "Título": "Mensagens (Administrador de Plataforma)",
+        "Conteúdo": "Nesta aba você poderá visualizar, responder e deletar mensagens recebidas e enviadas entre sua rede de amigos. Também é possível enviar mensagens privadas para seus contatos ou ler mensagens que foram enviadas para você. Caso deseje enviar uma nova mensagem, basta buscar um contato na barra de pesquisa e clicar em seu nome. O chat com o contato selecionado será aberto ao lado direito. Após digitar sua mensagem, clique na seta azul do canto inferior direito para que sua mensagem seja enviada. O ícone ‘i’, disponível na parte superior direita do chat exibe as informações do contato, como os cursos em que ele está inscrito."},
+{
+        "Título": "Ambientes (Administrador de Plataforma)",
+        "Conteúdo": "Ao fazer login em sua conta do Redu, no lado superior direito da página você encontrará uma lista dos ambientes disponíveis para seu acesso. Caso esteja inscrito em muitos cursos, clique em ‘ver todos’ para ter acesso à totalidade de cursos. Também é possível visualizar os ambientes na barra lateral esquerda, abaixo de ‘meu perfil’."},
+    {
+      "Título": "Configurações (Adm. Plataforma)",
+      "Conteúdo": "Selecione a barra lateral esquerda e escolha a opção 'Configurações'. Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba 'Conta' e salve as alterações no botão azul ao lado direito inferior da página."
+    },
+    {
+        "Título": "Criar usuário (Adm. Plataforma)",
+        "Conteúdo": "Para criar um usuário na plataforma, você deverá estar na página inicial, e localizar, ainda na parte esquerda da página, a última opção dentre as diversas possibilidades já citadas anteriormente, a de ‘Criar usuário’. Ao clicar, você será direcionado para a página de criação que pedirá os seguintes campos a serem preenchidos: primeiro nome, sobrenome, e-mail de contato, confirmação do e-mail, nome de usuário/login, senha e confirmação de senha que deverão ser escolhidos pelo usuário. Após preencher os campos, para finalizar a ação de criar o usuário, basta clicar no botão azul logo após os campos que sinaliza a opção ‘Cadastrar’."
+    },
+    {
+        "Título": "Cursos acessados recentemente (Adm. Plataforma)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado esquerdo da página inicial, logo abaixo de configurações é possível visualizar os três últimos cursos acessados recentemente. Sendo possível, assim, localizar o curso desejado com mais facilidade."},
+    {
+        "Título": "Barra de pesquisa (Adm. Plataforma)",
+        "Conteúdo": "Para realizar uma pesquisa na plataforma, basta encontrar no canto superior direito da tela, uma barra de pesquisa, sinalizada pela imagem de uma lupa e algumas linhas. Para finalizar sua pesquisa, basta clicar no conteúdo desejado."},
+    {
+        "Título": "Status do perfil (Adm. Plataforma)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo da caixa de pesquisa, é possível visualizar o status de informações do seu perfil. Isso diz respeito a dados preenchidos pelo próprio usuário, por exemplo, foto, profissão, idiomas, biografia, etc."},
+    {
+        "Título": "Explore o Redu (Adm. Plataforma)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo de ‘status do perfil’, ao clicar em ‘Explore o Redu’, você tem acesso a um esquema explicativo sobre o funcionamento dos ambientes da Redu."},
+    {
+        "Título": "Saiba mais - central de ajuda (Adm. Plataforma)",
+        "Conteúdo": "Se você estiver na versão 2.0: Ao lado direito da página inicial, abaixo de ‘Mensagens’, encontramos a aba ‘Central de Ajuda’, em que é possível ler mais informações sobre o que é possível fazer com a Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo guias de funcionamento da Redu e opções de atendimento online. Guia Básico: Nesta aba é possível ter acesso a orientações sobre os primeiros passos na plataforma, como, por exemplo, a efetuação do cadastro e edições de informações do perfil. Guia do Gestor: Nesta aba é possível entender as atribuições do gestor no ambiente, o processo de convidar alunos para o curso e demais informações de gerenciamento. Guia do Aluno: Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu. Guia do Administrado de Ambiente: Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu. Guia do Desenvolvedor: Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu. mais: [https://ajuda.redu.digital/]"},
+    {
+        "Título": "Conecte-se (Adm. Plataforma)",
+        "Conteúdo": "Ao lado direito da página inicial de acesso, logo abaixo do item ‘conquistas recentes’, é possível encontrar a aba ‘sugestões de amizade’, que diz respeito às conexões de amizade na plataforma. Serão exibidos os perfis de amigos prováveis, caso deseje conectar-se com eles, basta clicar em ‘conectar’. A partir disso, é só esperar o outro usuário aceitar o convite e você verá atualizações dele em sua página inicial."},
+    {
+        "Título": "Fale Conosco (Adm. Plataforma)",
+        "Conteúdo": "No rodapé da página inicial da Redu, é possível encontrar o ícone de uma interrogação, referente à aba ‘Fale Conosco’. Ao clicar, o usuário visualiza um pop-up, contendo campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento o Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada."},
+    {
+        "Título": "Opções do usuário (Adm. Plataforma)",
+        "Conteúdo": "O ícone de uma lupa e uma lista presente no lado superior esquerdo da tela contempla algumas funções básicas de usuário, são elas: Página inicial: Nesta botão é possível ter a visão geral da plataforma. Nela está o mural geral, seus ambientes, suas conquistas, solicitações e sugestões de amizade e muito mais. Caso esteja em outra tela e deseje retornar à página inicial, basta clicar nesta opção. Meus ambientes: Este botão leva o usuário a uma lista dos ambientes disponíveis para seu acesso. Conquistas: Em ‘conquistas’ o usuário irá visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados. Contatos: Neste botão você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no ‘x’. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em ‘conectar’ quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade ‘sugestões de amizade’, disponível na parte inferior direita da página. Central de ajuda: Ao clicar neste botão, o usuário é redirecionado para a página do ‘fale conosco’. Esta página contém campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento o Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada. Abaixo desta aba é possível encontrar o manual da plataforma. Configurações: Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página. Sair: Selecione ‘sair’ para sair da sua conta do Redu. Você será redirecionado para a tela de login."
+    },
+    {
+        "Título": "Criar ambiente (Adm. Plataforma)",
+        "Conteúdo": "Para criar um ambiente é necessário entrar na aba 'meus ambientes'. Abaixo do título da aba é possível encontrar o botão 'criar ambiente'. Na página de criação de ambiente é possível espelhar um ambiente já existente ou criar um novo preenchendo as informações obrigatórias, como nome do ambiente, abreviação e endereço eletrônico, e salvando ao fim da página no botão azul 'criar ambiente'."
+    },
+    {
+        "Título": "Listar Ambientes (Adm. Plataforma)",
+        "Conteúdo": "Ao fazer login em sua conta da Redu, ao lado esquerdo so seu monitor, você encontrará abas como ‘início’ e ‘Ambientes’.  Para visualizar a lista dos ambientes disponíveis para seu acesso, clique na aba ‘Ambientes’, assim será possível encontrar os ambientes aos quais você pertence. Para ‘Início’, basta clicar no logo da Redu, no topo da página.  Você também pode acessar seus ambientes através da lista de ambientes que existe na redu, ao lado direito da sua tela."},
+    {
+        "Título": "Detalhar Ambiente (Adm. Plataforma)",
+        "Conteúdo": "Para detalhar o ambiente no qual você está inserido, você deve selecioná-lo, e assim as informações sobre esse ambiente em específico serão apresentadas, tais como: cursos e membros."},
+    {
+        "Título": "Gerenciar Ambiente (Adm. Plataforma)",
+        "Conteúdo": "Caso queira alterar um ambiente, você deverá selecioná-lo e clicar em ‘gerenciar ambiente’. Duas opções serão apresentadas: ‘criar curso’ e ‘editar ambiente’. Selecione a segunda opção. Em seguida, você poderá espelhar um ambiente existente, alterar o nome do ambiente, entre outras funções destrinchadas nos artigos seguintes."
+    },
+    {
+        "Título": "Informações (Adm. Plataforma)",
+        "Conteúdo": "Na página de informações você poderá alterar informações gerais do ambiente, tais como o nome do mesmo, inserir ou modificar a foto que representa o ambiente, descrever o curso, possibilitar a produção de certificados e outras informações opcionais. Enviar e-mails de lembrete: Esta função habilita o envio de e-mails quando a porcentagem de conclusão do ambiente estiver abaixo do que for definido pelo administrador. Zoom API: Caso deseje realizar aulas vinculadas ao Zoom, insira suas credenciais da plataforma de transmissão, assim, esse tipo de aula ficará disponível para criação. Abaixo da caixa ‘Zoom API Secret’ há o link do passo a passo para tal implementação. Integrar com YouTube. PagSeguro: Para monetizar um ou mais cursos, você será redirecionado para uma página de integração com a Redu. Ao finalizar as alterações, clique em ‘salvar’, na parte inferior da tela."
+    },
+{
+    "Título": "Listar membros do ambiente (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar os membros existentes em um ambiente você deverá selecionar o ambiente em questão e clicar em ‘membros’, abaixo de ‘conteúdo’, na barra lateral esquerda. Ao selecionar essa opção, você poderá opta, por visualizar ‘Todos’, apenas ‘Professores’, ‘Tutores’ ou ‘Alunos’. Também é possível buscar um usuário na barra de busca e visualizar um perfil clicando nele. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção ‘Mostrar mais…’ representada com uma seta apontada para baixo."
+},
+{
+    "Título": "Cursos (Adm. Plataforma)",
+    "Conteúdo": "Se você estiver na versão 1.0: Ao selecionar esta aba você irá visualizar os cursos existentes no ambiente selecionado, podendo editá-los, removê-los ou criar cursos."
+},
+{
+    "Título": "Remover Ambiente (Adm. Plataforma)",
+    "Conteúdo": "Se você estiver na versão 1.0: Para remover um ambiente, você deverá selecionar a aba ‘Ambientes’ na parte superior da tela. Em seguida escolha o ambiente que deseja remover. Após selecionar, clique em ‘Gerenciar ambiente’, desça até o fim da tela, clique em ‘remover ambiente’ e confirme."
+},
+{
+    "Título": "Classificação dos alunos no Ambiente (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar a classificação dos alunos no ambiente, você deverá selecionar o ambiente em questão e ao lado da opção ‘Ambientes’, você deverá clicar no item ao lado, representado por um pódio. Ao selecionar essa opção de Classificação dos alunos, você encontrará três colunas, sendo elas: posição, aluno e pontuação. Ao passar o cursor do mouse, o aluno e sua posição serão expandidos e você poderá selecionar para acessar o perfil do usuário. Além disso, ao descer a página, você poderá avançar a lista de classificação adiante, para visualizar o restante do ranking."
+},
+    
+    {
+        "Título": "Cadastrar curso (Adm. Plataforma)",
+        "Conteúdo": "A fim de cadastrar um novo curso, você deverá entrar no ambiente em que deseja adicioná-lo e, ao lado direito da página, inserida em uma caixa azul, você poderá visualizar a opção ‘criar novo curso’ e selecioná-la. Informe o nome que deseja dar ao curso. Caso seja do seu interesse, complete as informações opcionais sobre o mesmo e ao fim da página, ao lado direito, selecione a caixa azul ‘salvar alterações’."
+    },
+    {
+        "Título": "Listar cursos (Adm. Plataforma)",
+        "Conteúdo": "Para visualizar os cursos existentes em um certo ambiente, você deverá selecionar o ambiente de sua escolha e eles serão apresentados em blocos, um ao lado do outro."
+    },
+    {
+        "Título": "Detalhar curso (Adm. Plataforma)",
+        "Conteúdo": "Para detalhar algum curso, você deve selecioná-lo e, assim, as informações sobre esse curso em específico serão apresentadas, tais como: disciplinas cadastradas nele e membros."
+    },
+    {
+        "Título": "Gerenciar curso (Adm. Plataforma)",
+        "Conteúdo": "Caso queira alterar um curso, você deverá selecioná-lo e clicar em ‘gerenciar curso’. Três opções serão apresentadas: ‘criar disciplina’, ‘editar curso’ e ‘deletar’. Selecione a segunda opção. Em seguida, você poderá espelhar um curso existente, alterar o nome do curso, entre outras funções: Ativar Certificado: Ao ativar esta função deve-se preencher: Nome do responsável pela assinatura: insira o nome e sobrenome de quem será o responsável pela validação do certificado. Cargo do responsável: deverá informar, dentro da sua organização, qual o cargo o responsável se encaixa. Nome da organização: o nome da organização responsável pelo curso. Assinatura do responsável: deverá fazer o upload de um arquivo do seu aparelho, que contenha a assinatura legível do responsável pela assinatura. Percentual mínimo para geração de certificado: insira a porcentagem mínima de conclusão do curso, para os alunos poderem gerar o seu próprio certificado. Data de início do curso: informe a data em que o curso iniciará. Data de término do curso: informe a data em que o curso encerrará. Monetizar curso: Caso deseje monetizar o curso que você está editando, ative essa opção e logo abaixo informe o valor que será cobrado por ele, para cada cursista. Abaixo do botão de ativação há o link do passo a passo para tal implementação. Enviar e-mails de lembrete: Esta função habilita o envio de e-mails quando a porcentagem de conclusão do ambiente estiver abaixo do que for definido pelo administrador. Na aba ‘membros’, você terá acesso a todos os membros cadastrados no curso selecionado, e saberá a quais disciplinas daquele curso cada usuário pertence. Você também poderá visualizar os papéis de cada usuário e filtrar os membros por uma categoria de sua escolha, caso queira realizar uma busca mais específica. Se desejar excluir um membro ou mais do curso, basta pesquisar o(s) nome(s) na aba de pesquisa e selecionar os usuários que deseja retirar e após isso selecione a opção ‘Remover’. Adicionar membro: Para adicionar uma pequena quantidade de usuários manualmente preencha os campos apresentados: ‘Nome’, ‘Sobrenome’, ‘E-mail’ e ‘Número de telefone’ (sendo este último, opcional), escolha se o papel do usuário criado será de ‘Membro’, ‘Professor’, ‘Tutor’ ou ‘Administrador do Ambiente’ e clique em ‘Cadastrar’. Ao finalizar, um e-mail será enviado para o usuário contendo as informações de login e senha. Importar Dados: Por fim, tem-se a opção de importar ou remover vários membros do curso simultaneamente ao baixar e preencher a planilha disponibilizada com seus dados, após isso basta anexar e submetê-la clicando em ‘importar’."
+    },
+    {
+        "Título": "Classificação dos alunos no curso (Adm. Plataforma)",
+        "Conteúdo": "Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão ‘Classificação’. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada usuário no curso."
+    },
+{
+    "Título": "Listar membros do curso (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar os membros existentes em um curso você deverá selecionar o ambiente e curso em questão e clicar em ‘membros’, abaixo de ‘conteúdo’, na barra lateral esquerda. Ao selecionar essa opção, você poderá opta, por visualizar ‘todos’, apenas ‘professores’, ‘tutores’ ou ‘alunos’. Também é possível buscar um usuário na barra de busca e visualizar um perfil clicando nele. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção ‘mostrar mais…’ representada com uma seta apontada para baixo."
+},
+{
+    "Título": "Classificação dos alunos no curso (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão ‘Classificação’. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada usuário no curso."
+},
+{
+    "Título": "Cadastrar disciplina (Adm. Plataforma)",
+    "Conteúdo": "A fim de cadastrar uma disciplina, você deverá entrar no curso que deseja adicioná-la e clicar em um botão azul chamado ‘gerenciar curso’. Depois disso, você deverá clicar em ‘criar disciplina’ para ser levado para uma aba em que se deve preencher informações como nome, sigla, turno, descrição e palavras-chave da disciplina que será criada. Após esse momento, clique no botão azul ‘criar’, localizado no canto inferior direito da sua tela.  Nessa aba, ainda é possível espelhar uma disciplina existente, de modo que as características e quaisquer mudanças referentes à disciplina original serão refletidas na disciplina espelhada. Para esta opção, você deverá clicar em ‘espelhar disciplina existente’, na parte superior da aba ‘disciplinas’. Em seguida, selecione o ambiente, o curso e a disciplina desejada. Com tudo pronto, clique no botão azul ‘criar disciplina espelhada’. Por fim, caso queira colocar dependência entre os módulos, acione o botão ‘adicionar dependência entre os módulos’, presente no canto inferior esquerdo da tela, embaixo de ‘palavras-chave’."
+},
+{
+    "Título": "Gerenciar disciplina (Adm. Plataforma)",
+    "Conteúdo": "Caso queira alterar uma disciplina, você deverá selecioná-la e, embaixo no nome da disciplina, clicar na opção ‘Gerenciar Disciplina’ e depois em ‘Editar Disciplina’. Com isso, será possível visualizar uma aba com duas opções: ‘Informações’ e ‘Relatórios’, localizado ao lado esquerdo da sua tela."
+},
+{
+    "Título": "Listar Disciplinas (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar as disciplinas existentes em um certo curso, você deverá selecionar o ambiente, em seguida o curso de sua escolha e as disciplinas serão apresentados em blocos, uma ao lado da outra."
+},
+{
+    "Título": "Detalhar disciplina (Adm. Plataforma)",
+    "Conteúdo": "Para detalhar uma disciplina na qual você está inserido, você deve selecioná-la, assim as informações sobre essa disciplina em específico serão apresentadas, tais como: conteúdo, referente à seleção de módulo, discussão, membros e aulas."
+},
+{
+    "Título": "Remover disciplina (Adm. Plataforma)",
+    "Conteúdo": "Para remover uma disciplina, você deverá selecionar a aba ‘meus ambientes’ na parte superior direita da tela ou na listagem à esquerda. Em seguida escolha o ambiente, depois selecione o curso em que a disciplina se encontra. Na página do curso, localize a disciplina desejada na listagem de disciplinas e clique na engrenagem. Três opções serão apresentadas: criar módulo, editar disciplina e deletar. Escolha a última opção e confirme."
+},
+{
+    "Título": "Cadastrar módulo (Adm. Plataforma)",
+    "Conteúdo": "A fim de criar e cadastrar um módulo, você deverá entrar na disciplina que deseja e clicar em um botão azul chamado ‘gerenciar disciplina’. Em seguida, você deve clicar na opção ‘criar módulo’ e preencher informações necessárias para criação do módulo desejado. Caso seja do seu interesse, complete as informações opcionais sobre ela e ao fim da página, ao lado direito, selecione a caixa azul ‘criar’. Também é possível espelhar um módulo existente, de modo que as características e quaisquer mudanças referentes ao módulo original serão refletidas no módulo espelhado. Para esta opção, você deverá clicar em ‘espelhar módulo existente’, na parte superior da aba ‘módulos’. Em seguida, selecione o ambiente, o curso, a disciplina e o módulo desejado. Com tudo pronto, clique no botão azul ‘criar módulo espelhado’."
+},
+{
+    "Título": "Gerenciar módulo (Adm. Plataforma)",
+    "Conteúdo": "Para editar ou adicionar conteúdos/aulas em algum módulo criado é necessário entrar na disciplina que possui o módulo desejado; você deverá localizá-lo e selecionar a opção ‘editar módulo’ na engrenagem ao lado do nome do módulo. Nesta página é possível alterar o nome do módulo, deixá-lo ativo ou inativo, adicionar aulas e programar o momento em que o conteúdo passará a ficar visível para os participantes do curso, além de ativar a dependência de aulas, fazendo com que o usuário assista às aulas sequencialmente."
+},
+{
+    "Título": "Remover módulo (Adm. Plataforma)",
+    "Conteúdo": "Se você estiver na versão 1.0: Para remover um módulo, você deverá selecionar a Disciplina de sua escolha e visualizar o módulo que deseja remover. Após encontrá-lo, clique em ‘Editar’, ao lado direito do nome do módulo, desça até o fim da tela, clique em ‘Remover módulo’, ao lado esquerdo inferior, e confirme."
+},
+{
+    "Título": "Listar módulos (Adm. Plataforma)",
+    "Conteúdo": "Para visualizar os módulos existentes em uma disciplina, você deverá selecionar o ambiente, o curso e a disciplina de sua escolha. Em seguida, você visualizará uma seleção de módulos existentes."
+},
+{
+    "Título": "Detalhar módulos (Adm. Plataforma)",
+    "Conteúdo": "Para detalhar um módulo no qual você está inserido, você deve selecioná-lo, assim as informações sobre esse módulo em específico serão apresentadas, tais como: aulas, discussão e membros. Também é possível visualizar o progresso no módulo, disponível não lado do nome do módulo."
+},
+{
+    "Título": "Progresso do módulo (Adm. Plataforma)",
+    "Conteúdo": "Para acompanhar o seu progresso do módulo, você deverá selecionar a disciplina de sua escolha e depois deverá clicar na caixa de seleção para escolher seu módulo. O progresso dele estará ao lado em formato de círculo, indicando a porcentagem concluída até o momento."
+},
+{
+    "Título": "Cadastrar aula (Adm. Plataforma)",
+    "Conteúdo": "Para cadastrar uma aula, é necessário que você selecione o módulo desejado na disciplina e curso de sua escolha, selecione a opção 'Editar' que fica no ícone de 'ferramenta de engrenagem'. Preencha os dados necessários, 'Nome', 'Sigla', 'Objetivos e Programa', qual o Status do módulo, se estarão ativo ou invisível para os estudantes, Logo abaixo, em 'Aulas' você poderá adicionar uma ou mais aulas neste módulo, basta selecionar qual o tipo de aula deseja (detalhamento dos tipos de aulas disponíveis no tópico a seguir) e 'Salvar' na caixa azul ao lado direito inferior da página. O Redu oferece a opção de bloquear a aula na criação dela. Sendo assim, o administrador ou professor, quando estiver criando, poderá estimar o tempo, caso deseje, de visibilidade de cada conteúdo. Logo abaixo, existe a função de atribuir frequência em aula automaticamente. O padrão é que esta função esteja ativada, para que ao clicar na aula, a frequência seja computada automaticamente, exceto em aulas de exercícios, que requerem a realização e submissão de um exercício ou a marcação manual em 'finalizar aula' para atribuir frequência. Se desativar esta opção, os alunos deverão marcar manualmente a conclusão da aula após acessá-la. A função de permissão de download de anexos permite que os anexos em comentários possam ser baixados também por outros alunos. A função de envio de notificações ativa o envio de uma notificação de nova aula para o e-mail dos alunos."
+},
+{
+    "Título": "Gerenciar aula (Adm. Plataforma)",
+    "Conteúdo": "Para editar ou adicionar conteúdos/aulas em algum módulo criado, você deverá entrar na Disciplina que se encontra a aula, selecionar o Módulo dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. A Redu oferece a opção de bloquear a aula na criação dela. Sendo assim, o administrador ou professor, quando estiver criando, poderá estimar o tempo, caso deseje, de visibilidade de cada conteúdo. Programar abertura e fechamento do módulo: ao ativar essa função, você poderá programar o momento em que o conteúdo passará a ficar visível para os participantes do curso e também quando ele não estará mais disponível. Para cadastrar um conteúdo, serão disponibilizadas as seguintes alternativas de aulas: Página de multimídia Consiste em um editor de texto e imagens que permite a criação de conteúdos através do navegador. Digite um título; Na aba 'texto' terão diversas opções como adicionar imagem através de um link ou do próprio servidor, inserir ou editar um link qualquer da web, criar tabela, inserir uma página da web na plataforma pela opção do 'IFrame', ou ainda, inserir jogos ou animações que utilizem da extensão do 'Flash' na opção representada por um 'f'; Com tudo pronto, selecione a opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Documento e apresentação Inserção de arquivos de textos prontos, apresentação de documentos em diversos formatos e também, imagens. Digite um título; Clique em escolher arquivo e selecione o documento desejado Se deseja que os usuários façam download do material futuramente, clique em 'permitir download' Com tudo pronto, selecione a opção 'adicionar'. Clique em 'finalizar módulo' para salvar suas alterações. Vídeo Inserção de vídeos através de upload direto do computador, link do YouTube, chamada de vídeo, transmissão ao vivo ou meeting com o Zoom ou Google Meet. Digite um título; Escolha seu tipo de arquivo; Caso escolha 'Upload de arquivo de vídeo', selecione o vídeo desejado e clique em 'adicionar'; Caso escolha 'Vídeo do YouTube ®', insira a URL do vídeo por extenso e clique em 'adicionar'; Caso escolha 'Transmissão ao vivo', determine a data e o horário de início da transmissão, o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Meeting com Zoom' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo Google Meet', insira o título da sua escolha, crie uma descrição se necessário e defina o período de realização da chamada, colocando a data e horário de início e fim; Clique em 'finalizar módulo' para salvar suas alterações. Exercício hoje vai ter uma festa bolo e guaraná muitos doces nananana. Essa ferramenta permite a criação de questões de múltipla escolha. Digite um título; Digite o enunciado da questão; Digite o enunciado da alternativa 'A'; Clique em 'adicionar alternativa'; Digite o enunciado da alternativa 'B'; Repita o procedimento se quiser adicionar outras alternativas; Também é possível adicionar imagens e outros recursos clicando nos elementos presentes na caixa; Para escolher a alternativa certa, basta clicar no símbolo ao lado da questão. É possível escolher múltiplas alternativas; Quando estiver tudo pronto, clique em 'finalizar edição da questão' e em seguida na opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Aula já existente Essa ferramenta permite replicar um conteúdo existente na plataforma. Escolha uma das aulas existentes; Clique em 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações."
+},
+{
+    "Título": "Remover aula (Adm. Plataforma)",
+    "Conteúdo": "Para remover uma aula, você deverá entrar na *Disciplina* que se encontra a aula, selecionar o *Módulo* dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. Em seguida, abrirá a opção da edição do módulo e ao descer a página, na listagem das aulas, na parte direita de cada uma delas haverá a opção de deletar, sinalizado por três pontos (...). Selecione os três pontos na aula que desejar deletar e depois clique em *'Excluir'*. Finalize o módulo para que as alterações sejam concluídas."
+},
+{
+    "Título": "Acessar aula (Adm. Plataforma)",
+    "Conteúdo": "Para acessar uma aula, você deverá localizar o ambiente em que você está inscrito, ao clicar, selecione a disciplina desejada. Em seguida, você visualizará os módulos da disciplina e ao clicar no nome do módulo desejado, será exibido blocos quadrados com as aulas disponíveis, a partir disso você poderá clicar na aula de sua preferência e já estará acessando o conteúdo desejado."
+},
+{
+    "Título": "Avaliar as aulas (Adm. Plataforma)",
+    "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: Ao acessar uma aula você pode deixar a sua avaliação do conteúdo através da classificação por estrelas. Esta funcionalidade, que dispõe de 5 estrelas avaliativas, está localizada logo acima do nome da aula, no lado direito da tela. Basta clicar na estrela desejada e já terá avaliado"
+},
+
+{
+    "Título": "Comentar, pedir ajuda na aula e ver arquivos (Adm. Plataforma)",
+    "Conteúdo": "Para comentar ou pedir ajuda em uma aula, você deverá observar o mural de comentários na parte da direita da página e clicar na caixa de texto para escrever a mensagem e deixar seu comentário. Para pedir ajuda, ainda abaixo dessa caixa de texto, terá a opção com um ícone de pessoa levantando a mão, é só clicar e ele ficará laranja, sinalizando o pedido. Caso deseje, você ainda pode inserir arquivos no botão ‘inserir arquivos’, em seguida, clique em ‘enviar’."
+}
+]

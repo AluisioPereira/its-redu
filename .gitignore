@@ -1,0 +1,84 @@
+# Byte-compiled / cache / distrib / egg info
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+.venv.bak/
+venv.bak/
+
+# Dependências do pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Banco de dados local
+*.sqlite3
+
+# Arquivos temporários
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Arquivos Jupyter
+.ipynb_checkpoints
+
+# Arquivos de testes e cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos do Git
+*.orig

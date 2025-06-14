@@ -1,0 +1,208 @@
+[
+    {
+      "Título": "Meus emblemas (aluno)",
+      "Conteúdo": "Se você estiver na versão 1.0: Você poderá visualizar os emblemas conquistados ao longo do uso da plataforma nessa aba, sendo coloridos os emblemas já conquistados e os que estão em preto e branco os emblemas que ainda não foram alcançados. Ao passar o cursor do mouse por cima dos emblemas, você verá o nome do emblema e qual o critério para conquistá-lo."
+    },
+    {
+      "Título": "Saiba mais (central de ajuda)",
+      "Conteúdo": "Ao lado direito da página inicial, abaixo de 'Explore o Redu', encontramos a aba 'Saiba Mais', em que é possível ler mais informações sobre o que é possível fazer com o Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo uma barra de pesquisa, guias de funcionamento do Redu e opções de atendimento online. [https://ajuda.redu.digital]"
+    },
+    {
+      "Título": "Cursos acessados recentemente (aluno)",
+      "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado esquerdo da página inicial, logo abaixo de configurações é possível visualizar os três últimos cursos acessados recentemente. Sendo possível, assim, localizar o curso desejado com mais facilidade."
+    },
+    {
+      "Título": "Classificação dos alunos no curso (Adm. Ambiente)",
+      "Conteúdo": "Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão 'Classificação'. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada usuário no curso."
+    },
+    {
+      "Título": "Gerenciar aula (Adm. Ambiente)",
+      "Conteúdo": "Para editar ou adicionar conteúdos/aulas em algum módulo criado, você deverá entrar na Disciplina que se encontra a aula, selecionar o Módulo dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. A Redu oferece a opção de bloquear a aula na criação dela. Sendo assim, o administrador ou professor, quando estiver criando, poderá estimar o tempo, caso deseje, de visibilidade de cada conteúdo. Programar abertura e fechamento do módulo: ao ativar essa função, você poderá programar o momento em que o conteúdo passará a ficar visível para os participantes do curso e também quando ele não estará mais disponível. Para cadastrar um conteúdo, serão disponibilizadas as seguintes alternativas de aulas: Página de multimídia Consiste em um editor de texto e imagens que permite a criação de conteúdos através do navegador. Digite um título; Na aba 'texto' terão diversas opções como adicionar imagem através de um link ou do próprio servidor, inserir ou editar um link qualquer da web, criar tabela, inserir uma página da web na plataforma pela opção do 'IFrame', ou ainda, inserir jogos ou animações que utilizem da extensão do 'Flash' na opção representada por um 'f'; Com tudo pronto, selecione a opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Documento e apresentação Inserção de arquivos de textos prontos, apresentação de documentos em diversos formatos e também, imagens. Digite um título; Clique em escolher arquivo e selecione o documento desejado Se deseja que os usuários façam download do material futuramente, clique em 'permitir download' Com tudo pronto, selecione a opção 'adicionar'. Clique em 'finalizar módulo' para salvar suas alterações. Vídeo Inserção de vídeos através de upload direto do computador, link do YouTube, chamada de vídeo, transmissão ao vivo ou meeting com o Zoom ou Google Meet. Digite um título; Escolha seu tipo de arquivo; Caso escolha 'Upload de arquivo de vídeo', selecione o vídeo desejado e clique em 'adicionar'; Caso escolha 'Vídeo do YouTube ®', insira a URL do vídeo por extenso e clique em 'adicionar'; Caso escolha 'Transmissão ao vivo', determine a data e o horário de início da transmissão, o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Meeting com Zoom' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo Google Meet', insira o título da sua escolha, crie uma descrição se necessário e defina o período de realização da chamada, colocando a data e horário de início e fim; Clique em 'finalizar módulo' para salvar suas alterações. Exercício hoje vai ter uma festa bolo e guaraná muitos doces nananana. Essa ferramenta permite a criação de questões de múltipla escolha. Digite um título; Digite o enunciado da questão; Digite o enunciado da alternativa 'A'; Clique em 'adicionar alternativa'; Digite o enunciado da alternativa 'B'; Repita o procedimento se quiser adicionar outras alternativas; Também é possível adicionar imagens e outros recursos clicando nos elementos presentes na caixa; Para escolher a alternativa certa, basta clicar no símbolo ao lado da questão. É possível escolher múltiplas alternativas; Quando estiver tudo pronto, clique em 'finalizar edição da questão' e em seguida na opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Aula já existente Essa ferramenta permite replicar um conteúdo existente na plataforma. Escolha uma das aulas existentes; Clique em 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações"
+    },
+    {
+      "Título": "Membros (Adm. Ambiente)",
+      "Conteúdo": "Para cadastrar um conteúdo, serão disponibilizadas as seguintes alternativas de aulas: Página de multimídia, Documento e apresentação, Vídeo, Exercício, Aula já existente. Na aba 'Membros' você terá acesso a todos os membros cadastrados na disciplina selecionada e poderá visualizar os papéis de cada usuário na disciplina e também poderá filtrar os membros por uma categoria de sua escolha, caso queira realizar uma busca mais específica."
+    },
+    {
+      "Título": "Remover aula (Adm. Ambiente)",
+      "Conteúdo": "Para remover uma aula, você deverá entrar na Disciplina que se encontra a aula, selecionar o Módulo dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. Em seguida, abrirá a opção da edição do módulo e ao descer a página, na listagem das aulas, na parte direita de cada uma delas haverá a opção de deletar, sinalizado por três pontos (...). Selecione os três pontos na aula que desejar deletar e depois clique em 'Excluir'. Finalize o módulo para que as alterações sejam concluídas."
+    },
+    {
+      "Título": "Avaliar as aulas (Adm. Ambiente)",
+      "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: Ao acessar uma aula você pode deixar a sua avaliação do conteúdo através da classificação por estrelas. Esta funcionalidade, que dispõe de 5 estrelas avaliativas, está localizada logo acima do nome da aula, no lado direito da tela. Basta clicar na estrela desejada e já terá avaliado."
+    },
+    {
+      "Título": "Início",
+      "Conteúdo": "Meu perfil (professor): Selecione “Editar Conta” e você poderá observar, ao lado esquerdo do seu monitor, opções para edição de 'Bio e Currículo' e 'Configurações de Conta'. Em 'Bio e Currículo' é possível alterar as informações que estarão disponibilizadas no seu perfil (como foto, nome, biografia, data de nascimento e informações adicionais). As alterações podem ser salvas ao clicar no botão azul, localizado no lado inferior direito da página."
+    },
+    {
+      "Título": "Meus emblemas (professor)",
+      "Conteúdo": "Em 'Meu perfil' você pode poderá clicar em 'Conquistas' para visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados."
+    },
+    {
+      "Título": "Meu mural (professor)",
+      "Conteúdo": "Na parte central da página inicial de acesso, você terá as abas 'visão geral, 'meu mural' e 'seguindo'. Na aba 'meu mural', você será apresentado a todas as suas interações, atualizações, comentários realizados por você em toda a plataforma, e os seus emblemas conquistados. Além disso, também é possível compartilhar informações, pensamentos e anexar arquivos no seu mural, os quais apenas os seus amigos poderão visualizar e responder. Os arquivos anexados podem ser do tipo DOCS, PPTX, PDF e XLXS. Para anexar, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção 'Escolher arquivo', além disso, a caixa de texto não pode ficar em branco, então você deverá escrever algo e finalizar ao clicar em 'Enviar', representado pelo botão azul ao lado direito e inferior da caixa de comentários."
+    },
+    {
+      "Título": "Meus contatos (professor)",
+      "Conteúdo": "A funcionalidade 'meus contatos' está disponível na parte inferior esquerda da tela. Ao clicar em 'ver todos', você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no 'x'. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em 'conectar' quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade 'sugestões de amizade', disponível na parte inferior direita da página."
+    },
+    {
+      "Título": "Visão geral (professor)",
+      "Conteúdo": "Assim que feito o acesso ao Redu, você poderá visualizar a aba 'Visão Geral', que possui um mural geral da plataforma, contendo as atualizações realizadas por você e seus amigos, atalhos para os seus contatos, seus ambientes, suas conquistas, solicitações e sugestões de amizade e muito mais. Caso esteja em outra tela e deseje retornar à página inicial, basta clicar em 'Redu', na parte superior esquerda da tela."
+    },
+    {
+      "Título": "Mensagens (professor)",
+      "Conteúdo": "Nesta aba você poderá visualizar, responder e deletar mensagens recebidas e enviadas entre sua rede de amigos. Também é possível enviar mensagens privadas para seus contatos ou ler mensagens que foram enviadas para você. Caso deseje enviar uma nova mensagem, basta buscar um contato na barra de pesquisa e clicar em seu nome. O chat com o contato selecionado será aberto ao lado direito. Após digitar sua mensagem, clique na seta azul do canto inferior direito para que sua mensagem seja enviada. O ícone 'i', disponível na parte superior direita do chat exibe as informações do contato, como os cursos em que ele está inscrito."
+    },
+    {
+      "Título": "Ambientes (professor)",
+      "Conteúdo": "Ao fazer login em sua conta do Redu, no lado superior direito da página você encontrará uma lista dos ambientes disponíveis para seu acesso. Caso esteja inscrito em muitos cursos, clique em 'ver todos' para ter acesso à totalidade de cursos. Também é possível visualizar os ambientes na barra lateral esquerda, abaixo de 'meu perfil'."
+    },
+    {
+      "Título": "Configurações (professor)",
+      "Conteúdo": "Selecione a barra lateral esquerda e escolha a opção 'configurações'. Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba 'Conta' e salve as alterações no botão azul ao lado direito inferior da página."
+    },
+    {
+      "Título": "Cursos acessados recentemente (professor)",
+      "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado esquerdo da página inicial, logo abaixo de configurações é possível visualizar os três últimos cursos acessados recentemente. Sendo possível, assim, localizar o curso desejado com mais facilidade."
+    },
+    {
+      "Título": "Barra de pesquisa (professor)",
+      "Conteúdo": "Para realizar uma pesquisa na plataforma, basta encontrar no canto superior direito da tela, uma barra de pesquisa, sinalizada pela imagem de uma lupa e algumas linhas. Para finalizar sua pesquisa, basta clicar no conteúdo desejado."
+    },
+    {
+      "Título": "Status do perfil (professor)",
+      "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo da caixa de pesquisa, é possível visualizar o status de informações do seu perfil. Isso diz respeito a dados preenchidos pelo próprio usuário, por exemplo, foto, profissão, idiomas, biografia, etc."
+    },
+    {
+      "Título": "Explore o Redu (professor)",
+      "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo de 'status do perfil', ao clicar em 'Explore o Redu', você tem acesso a um esquema explicativo sobre o funcionamento dos ambientes da Redu."
+    },
+    {
+      "Título": "Saiba mais - central de ajuda (professor)",
+      "Conteúdo": "Ao lado direito da página inicial, abaixo de 'mensagens', encontramos a aba 'central de ajuda', em que é possível ler mais informações sobre o que é possível fazer com o Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo guias de funcionamento do Redu e opções de atendimento online."
+    },
+    {
+      "Título": "Guia básico (professor)",
+      "Conteúdo": "Nesta aba é possível ter acesso a orientações sobre os primeiros passos na plataforma, como, por exemplo, a efetuação do cadastro e edições de informações do perfil."
+    },
+    {
+      "Título": "Conecte-se (professor)",
+      "Conteúdo": "Ao lado direito da página inicial de acesso, logo abaixo do item 'conquistas recentes', é possível encontrar a aba 'sugestões de amizade', que diz respeito às conexões de amizade na plataforma. Serão exibidos os perfis de amigos prováveis, caso deseje conectar-se com eles, basta clicar em 'conectar'. A partir disso, é só esperar o outro usuário aceitar o convite e você verá atualizações dele em sua página inicial."
+    },
+    {
+      "Título": "Fale conosco (professor)",
+      "Conteúdo": "No rodapé da página inicial da Redu, é possível encontrar o ícone de uma interrogação, referente à aba 'Fale Conosco'. Ao clicar, o usuário visualiza um pop-up, contendo campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento o Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada."
+    },
+    {
+      "Título": "Opções do usuário (professor)",
+      "Conteúdo": "O ícone de uma lupa e uma lista presente no lado superior esquerdo da tela contempla algumas funções básicas de usuário, são elas: Página inicial: Neste botão é possível ter a visão geral da plataforma. Nela está o mural geral, seus ambientes, suas conquistas, solicitações e sugestões de amizade e muito mais. Caso esteja em outra tela e deseje retornar à página inicial, basta clicar nesta opção. Meus ambientes: Este botão leva o usuário a uma lista dos ambientes disponíveis para seu acesso. Conquistas: Em 'conquistas' o usuário irá visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados. Contatos: Neste botão você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no 'x'. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em 'conectar' quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade 'sugestões de amizade', disponível na parte inferior direita da página. Central de ajuda: Ao clicar neste botão, o usuário é redirecionado para a página do 'fale conosco'. Esta página contém campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento o Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada. Abaixo desta aba é possível encontrar o manual da plataforma. Configurações: Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba 'Conta' e salve as alterações no botão azul ao lado direito inferior da página. Sair: Selecione 'sair' para sair da sua conta do Redu. Você será redirecionado para a tela de login."
+    },
+    {
+        "Título": "Listar ambientes (professor)",
+        "Conteúdo": "Ao fazer login em sua conta da Redu, ao lado esquerdo só seu monitor, você encontrará abas como 'início', 'Ambientes' e, dependendo do seu plano de contratação, o 'Banco de Questões. Para visualizar a lista dos ambientes disponíveis para seu acesso, clique na aba 'Ambientes', assim será possível encontrar os ambientes aos quais você pertence. Para 'Início', basta clicar no logo da Redu, no topo da página.  Você também pode acessar seus ambientes através da lista de ambientes que existe na Redu, ao lado direito da sua tela. Em relação ao 'Banco de Questões', você será redirecionado para uma página onde poderá formular as questões que desejar."
+      },
+      {
+        "Título": "Detalhar ambiente (professor)",
+        "Conteúdo": "Para detalhar o ambiente no qual você está inserido, você deve selecioná-lo, e assim as informações sobre esse ambiente em específico serão apresentadas, tais como: cursos e membros."
+      },
+      {
+        "Título": "Listar membros do ambiente (professor)",
+        "Conteúdo": "Para visualizar os membros existentes em um ambiente você deverá selecionar o ambiente em questão e clicar em 'membros', abaixo de 'conteúdo', na barra lateral esquerda. Ao selecionar essa opção, você poderá optar por visualizar 'Todos', apenas 'Professores', 'Tutores' ou 'Alunos'. Também é possível buscar um usuário na barra de busca e visualizar um perfil clicando nele. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção 'Mostrar mais...' representada com uma seta apontada para baixo."
+      },
+      {
+        "Título": "Classificação dos alunos no ambiente (professor)",
+        "Conteúdo": "Para visualizar a classificação nos ambientes, você deve clicar no ambiente que deseja visualizar para ser redirecionado a uma nova aba. Nessa aba, ao lado esquerdo da tela, você observará o botão 'Classificação'. Ao clicar no botão 'Classificação', você terá acesso a informações como posição, nome e pontuação do usuário do Ambiente."
+      },
+      {
+        "Título": "Listar cursos (professor)",
+        "Conteúdo": "Para visualizar os cursos existentes em um certo ambiente, você deverá selecionar o ambiente de sua escolha e eles serão apresentados em blocos, um ao lado do outro."
+      },
+      {
+        "Título": "Detalhar curso (professor)",
+        "Conteúdo": "Para detalhar algum curso, você deve selecioná-lo e, assim, as informações sobre esse curso em específico serão apresentadas, tais como: disciplinas cadastradas nele e membros."
+      },
+      {
+        "Título": "Listar membros do curso (professor)",
+        "Conteúdo": "Para visualizar os membros existentes em um curso você deverá selecionar o ambiente e curso em questão e clicar em 'membros', abaixo de 'conteúdo', na barra lateral esquerda. Ao selecionar essa opção, você poderá optar por visualizar 'todos', apenas 'professores', 'tutores' ou 'alunos'. Também é possível buscar um usuário na barra de busca e visualizar um perfil clicando nele. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção 'mostrar mais...' representada com uma seta apontada para baixo."
+      },
+      {
+        "Título": "Classificação dos alunos no curso (professor)",
+        "Conteúdo": "Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão 'Classificação'. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada usuário no curso."
+      },
+      {
+        "Título": "Abandonar curso (professor)",
+        "Conteúdo": "Se você estiver na versão 1.0: Caso deseje abandonar um curso no qual está inserido, basta selecionar o curso de sua escolha e ao lado direito da página, ao lado do nome 'Disciplinas' haverá a opção 'Abandonar Curso'. Basta selecionar essa opção que irá aparecer uma notificação pop up no seu dispositivo, perguntando se você tem certeza que deseja abandonar o curso, tendo em vista que a ação não poderá ser desfeita. Dessa forma, você deverá selecionar 'OK' se desejar abandoná-lo definitivamente ou 'Cancelar' para se manter no mesmo."
+      },
+      {
+        "Título": "Cadastrar disciplina (professor)",
+        "Conteúdo": "A fim de cadastrar uma disciplina, você deverá entrar no curso que deseja adicioná-la e clicar em um botão azul chamado 'Gerenciar Curso'. Depois disso, você deverá clicar em 'Criar Disciplina' para ser levado a uma aba em que se devem preencher informações como nome, sigla, turno, descrição e palavras-chave da disciplina que será criada. Após esse momento, clique no botão azul 'Criar', localizado no canto inferior direito da sua tela. Nessa aba, ainda é possível espelhar uma disciplina existente, de modo que as características e quaisquer mudanças referentes à disciplina original serão refletidas na disciplina espelhada. Para esta opção, você deverá clicar em 'espelhar disciplina existente', na parte superior da aba 'disciplinas'. Em seguida, selecione o ambiente, o curso e a disciplina desejada. Com tudo pronto, clique no botão azul 'criar disciplina espelhada'. Por fim, caso queira colocar dependência entre os módulos, acione o botão 'Adicionar dependência entre os módulos', presente no canto inferior esquerdo da tela, embaixo de 'Palavras-chave'."
+      },
+      {
+        "Título": "Gerenciar disciplina (professor)",
+        "Conteúdo": "Caso queira alterar uma disciplina, você deverá selecioná-la e, embaixo no nome da disciplina, clicar na opção 'Gerenciar Disciplina' e depois em 'Editar Disciplina'. Com isso, será possível visualizar uma aba com duas opções: 'Informações' e 'Relatórios', localizado ao lado esquerdo da sua tela."
+      },
+      {
+        "Título": "Listar disciplinas (professor)",
+        "Conteúdo": "Para visualizar as disciplinas existentes em um certo curso, você deverá selecionar o ambiente, em seguida o curso de sua escolha e as disciplinas serão apresentadas em blocos, uma ao lado da outra."
+      },
+      {
+        "Título": "Detalhar disciplina (professor)",
+        "Conteúdo": "Para detalhar uma disciplina na qual você está inserido, você deve selecioná-la, assim as informações sobre essa disciplina em específico serão apresentadas, tais como: conteúdo, referente à seleção de módulo, discussão, membros e aulas."
+      },
+      {
+        "Título": "Remover disciplina (professor)",
+        "Conteúdo": "Para remover uma disciplina, você deverá selecionar a aba 'meus ambientes' na parte superior direita da tela ou na listagem à esquerda. Em seguida, escolha o ambiente, depois selecione o curso em que a disciplina se encontra. Na página do curso, localize a disciplina desejada na listagem de disciplinas e clique na engrenagem. Três opções serão apresentadas: criar módulo, editar disciplina e deletar. Escolha a última opção e confirme."
+      },
+      {
+        "Título": "Cadastrar módulo (professor)",
+        "Conteúdo": "A fim de criar e cadastrar um módulo, você deverá entrar na disciplina que deseja e clicar em um botão azul chamado 'gerenciar disciplina'. Em seguida, você deve clicar na opção 'criar módulo' e preencher informações necessárias para criação do módulo desejado. Caso seja do seu interesse, complete as informações opcionais sobre ela e ao fim da página, ao lado direito, selecione a caixa azul 'criar'. Também é possível espelhar um módulo existente, de modo que as características e quaisquer mudanças referentes ao módulo original serão refletidas no módulo espelhado. Para esta opção, você deverá clicar em 'espelhar módulo existente', na parte superior da aba 'módulos'. Em seguida, selecione o ambiente, o curso, a disciplina e o módulo desejado. Com tudo pronto, clique no botão azul 'criar módulo espelhado'."
+      },
+      {
+        "Título": "Gerenciar módulo (professor)",
+        "Conteúdo": "Para editar ou adicionar conteúdos/aulas em algum módulo criado é necessário entrar na disciplina que possui o módulo desejado; você deverá localizá-lo e selecionar a opção 'editar módulo' na engrenagem ao lado do nome do módulo. Nesta página é possível alterar o nome do módulo, deixá-lo ativo ou inativo, adicionar aulas e programar o momento em que o conteúdo passará a ficar visível para os participantes do curso, além de ativar a dependência de aulas, fazendo com que o usuário assista às aulas sequencialmente."
+      },
+      {
+        "Título": "Remover módulo (professor)",
+        "Conteúdo": "Se você estiver na versão 1.0: Para remover um módulo, você deverá selecionar a Disciplina de sua escolha e visualizar o módulo que deseja remover. Após encontrá-lo, clique em 'Editar', ao lado direito do nome do módulo, desça até o fim da tela, clique em 'Remover módulo', ao lado esquerdo inferior, e confirme."
+      },
+      {
+        "Título": "Listar módulos (professor)",
+        "Conteúdo": "Para visualizar os módulos existentes em um certo curso, você deverá selecionar o ambiente, em seguida o curso de sua escolha e os módulos serão apresentados em blocos, um ao lado do outro."
+      },
+      {
+        "Título": "Detalhar módulos (professor)",
+        "Conteúdo": "Para detalhar um módulo no qual você está inserido, você deve selecioná-lo, assim as informações sobre esse módulo em específico serão apresentadas, tais como: aulas, discussão e membros. Também é possível visualizar o progresso no módulo, disponível não lado do nome do módulo."
+      },
+      {
+        "Título": "Progresso do módulo (professor)",
+        "Conteúdo": "Para acompanhar o seu progresso do módulo, você deverá selecionar a disciplina de sua escolha e depois deverá clicar na caixa de seleção para escolher seu módulo. O progresso dele estará ao lado em formato de círculo, indicando a porcentagem concluída até o momento."
+      },
+      {
+        "Título": "Cadastrar aula (professor)",
+        "Conteúdo": "Para cadastrar uma aula, é necessário que você selecione o módulo desejado na disciplina e curso de sua escolha, selecione a opção 'Editar' que fica no ícone de 'ferramenta de engrenagem'. Preencha os dados necessários, 'Nome', 'Sigla', 'Objetivos e Programa', qual o Status do módulo, se estarão ativo ou invisível para os estudantes, Logo abaixo, em 'Aulas' você poderá adicionar uma ou mais aulas neste módulo, basta selecionar qual o tipo de aula deseja (detalhamento dos tipos de aulas disponíveis no tópico a seguir) e 'Salvar' na caixa azul ao lado direito inferior da página. O Redu oferece a opção de bloquear a aula na criação dela. Sendo assim, o administrador ou professor, quando estiver criando, poderá estimar o tempo, caso deseje, de visibilidade de cada conteúdo. Logo abaixo, existe a função de atribuir frequência em aula automaticamente. O padrão é que esta função esteja ativada, para que ao clicar na aula, a frequência seja computada automaticamente, exceto em aulas de exercícios, que requerem a realização e submissão de um exercício ou a marcação manual em 'finalizar aula' para atribuir frequência. Se desativar esta opção, os alunos deverão marcar manualmente a conclusão da aula após acessá-la. A função de permissão de download de anexos permite que os anexos em comentários possam ser baixados também por outros alunos. A função de envio de notificações ativa o envio de uma notificação de nova aula para o e-mail dos alunos."
+      },
+      {
+        "Título": "Gerenciar aula (professor)",
+         "Conteúdo": "Para editar ou adicionar conteúdos/aulas em algum módulo criado, você deverá entrar na Disciplina que se encontra a aula, selecionar o Módulo dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. A Redu oferece a opção de bloquear a aula na criação dela. Sendo assim, o administrador ou professor, quando estiver criando, poderá estimar o tempo, caso deseje, de visibilidade de cada conteúdo. Programar abertura e fechamento do módulo: ao ativar essa função, você poderá programar o momento em que o conteúdo passará a ficar visível para os participantes do curso e também quando ele não estará mais disponível. Para cadastrar um conteúdo, serão disponibilizadas as seguintes alternativas de aulas: Página de multimídia Consiste em um editor de texto e imagens que permite a criação de conteúdos através do navegador. Digite um título; Na aba 'texto' terão diversas opções como adicionar imagem através de um link ou do próprio servidor, inserir ou editar um link qualquer da web, criar tabela, inserir uma página da web na plataforma pela opção do 'IFrame', ou ainda, inserir jogos ou animações que utilizem da extensão do 'Flash' na opção representada por um 'f'; Com tudo pronto, selecione a opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Documento e apresentação Inserção de arquivos de textos prontos, apresentação de documentos em diversos formatos e também, imagens. Digite um título; Clique em escolher arquivo e selecione o documento desejado Se deseja que os usuários façam download do material futuramente, clique em 'permitir download' Com tudo pronto, selecione a opção 'adicionar'. Clique em 'finalizar módulo' para salvar suas alterações. Vídeo Inserção de vídeos através de upload direto do computador, link do YouTube, chamada de vídeo, transmissão ao vivo ou meeting com o Zoom ou Google Meet. Digite um título; Escolha seu tipo de arquivo; Caso escolha 'Upload de arquivo de vídeo', selecione o vídeo desejado e clique em 'adicionar'; Caso escolha 'Vídeo do YouTube ®', insira a URL do vídeo por extenso e clique em 'adicionar'; Caso escolha 'Transmissão ao vivo', determine a data e o horário de início da transmissão, o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Meeting com Zoom' insira o título de sua escolha e clique em 'adicionar'; Caso escolha 'Chamada de vídeo Google Meet', insira o título da sua escolha, crie uma descrição se necessário e defina o período de realização da chamada, colocando a data e horário de início e fim; Clique em 'finalizar módulo' para salvar suas alterações. Exercício hoje vai ter uma festa bolo e guaraná muitos doces nananana. Essa ferramenta permite a criação de questões de múltipla escolha. Digite um título; Digite o enunciado da questão; Digite o enunciado da alternativa 'A'; Clique em 'adicionar alternativa'; Digite o enunciado da alternativa 'B'; Repita o procedimento se quiser adicionar outras alternativas; Também é possível adicionar imagens e outros recursos clicando nos elementos presentes na caixa; Para escolher a alternativa certa, basta clicar no símbolo ao lado da questão. É possível escolher múltiplas alternativas; Quando estiver tudo pronto, clique em 'finalizar edição da questão' e em seguida na opção 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações. Aula já existente Essa ferramenta permite replicar um conteúdo existente na plataforma. Escolha uma das aulas existentes; Clique em 'adicionar'; Clique em 'finalizar módulo' para salvar suas alterações"
+      },
+      {
+        "Título": "Remover aula (professor)",
+        "Conteúdo": "Para remover uma aula, você deverá entrar na Disciplina que se encontra a aula, selecionar o Módulo dela e clicar na opção 'Editar', sinalizado pelo ícone de ferramenta de engrenagem. Em seguida, abrirá a opção da edição do módulo e ao descer a página, na listagem das aulas, na parte direita de cada uma delas haverá a opção de deletar, sinalizado por três pontos (...). Selecione os três pontos na aula que desejar deletar e depois clique em 'Excluir'. Finalize o módulo para que as alterações sejam concluídas."
+      },
+      {
+        "Título": "Acessar aula (professor)",
+        "Conteúdo": "Para acessar uma aula, você deverá localizar o ambiente em que você está inscrito, ao clicar, selecione a disciplina desejada. Em seguida, você visualizará os módulos da disciplina e ao clicar no nome do módulo desejado, serão exibidos blocos quadrados com as aulas disponíveis, a partir disso você poderá clicar na aula de sua preferência e já estará acessando o conteúdo desejado."
+      },
+      {
+        "Título": "Avaliar as aulas (professor)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: Ao acessar uma aula você pode deixar a sua avaliação do conteúdo através da classificação por estrelas. Esta funcionalidade, que dispõe de 5 estrelas avaliativas, está localizada logo acima do nome da aula, no lado direito da tela. Basta clicar na estrela desejada e já terá avaliado."
+      },
+      {
+        "Título": "Comentar, pedir ajuda na aula e ver arquivos (professor)",
+        "Conteúdo": "Para comentar ou pedir ajuda em uma aula, você deverá observar o mural de comentários na parte da direita da página e clicar na caixa de texto para escrever a mensagem e deixar seu comentário. Para pedir ajuda, ainda abaixo dessa caixa de texto, terá a opção com um ícone de pessoa levantando a mão, é só clicar e ele ficará laranja, sinalizando o pedido. Caso deseje, você ainda pode inserir arquivos no botão 'inserir arquivos', em seguida, clique em 'enviar'."
+      }
+
+  ]
+  

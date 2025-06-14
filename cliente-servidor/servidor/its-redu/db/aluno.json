@@ -1,0 +1,201 @@
+[
+    {
+        "Título": "Classificação dos alunos no Ambiente",
+        "Conteúdo": "Para visualizar a classificação dos alunos no ambiente, você deverá selecionar o ambiente em questão e ao lado da opção 'Ambientes”, você deverá clicar no item ao lado, representado por um pódio. Ao selecionar essa opção de Classificação dos alunos, você encontrará três colunas, sendo elas: posição, aluno e pontuação. Ao passar o cursor do mouse, o aluno e sua posição serão expandidos e você poderá selecionar para acessar o perfil do usuário. Além disso, ao descer a página, você poderá avançar a lista de classificação adiante, para visualizar o restante do ranking."
+    },
+    {
+        "Título": "Classificação dos alunos no curso (Adm. Ambiente)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão 'Classificação'. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada usuário no curso. Se você estiver na versão 1.0: Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso em questão e ao lado da opção 'Cursos”, você deverá clicar no item ao lado, representado por um pódio. Ao selecionar essa opção de Classificação dos alunos, você encontrará três colunas, sendo elas: posição, aluno e pontuação. Ao passar o cursor do mouse, o aluno e sua posição serão expandidos e você poderá selecionar para acessar o perfil do usuário. Além disso, ao descer a página, você poderá avançar a lista de classificação adiante, para visualizar o restante do ranking."
+    },
+    {
+        "Título": "Meu perfil (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Selecione 'Editar conta'e você poderá observar, ao lado esquerdo do seu monitor, opções para edição de 'Bio e currículo' e 'Configurações de conta'. Em 'Bio e currículo' é possível alterar as informações que estarão disponibilizadas no seu perfil (como foto, nome, biografia, data de nascimento e informações adicionais). As alterações podem ser salvas ao clicar no botão azul, localizado no lado inferior direito da página. Já em clicando em 'Configurações de conta', você pode alterar informações como senha, e-mail, recebimento de notificações por e-mail ou notificações push no celular. Ao terminar as edições, clique em 'Salvar', botão azul presente no espaço inferior direito. Ao lado esquerdo do botão 'Salvar', também existe a opção 'Deletar conta'. Se você estiver na versão 1.0: Selecione 'Editar'nessa aba para alterar as informações que estarão disponibilizadas no seu perfil na aba 'Perfil'(como foto, nome, biografia, data de nascimento e informações adicionais) e salve as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba 'Conta' e salve as alterações no botão azul ao lado direito inferior da página."
+    },
+    {
+        "Título": "Meus emblemas (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Em 'Meu perfil' você pode poderá clicar em 'Conquistas' para visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados.  Se você estiver na versão 1.0: Em 'Meus emblemas' você poderá visualizar os emblemas conquistados ao longo do uso da plataforma. Nesta aba, os emblemas que aparecem coloridos já foram conquistados por você, enquanto os que estão em preto e branco são emblemas que ainda não foram alcançados. Ao passar o cursor do mouse por cima dos emblemas, você observará o nome do emblema e qual o critério para conquistá-lo."
+    },
+    {
+        "Título": "Meu mural (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Na parte central da página inicial de acesso, você terá as abas ‘Visão geral, ‘Meu mural’ e ‘Seguindo’. Na aba ‘Meu mural’, você será apresentado a todas as suas interações, atualizações, comentários realizados por você em toda a plataforma, e os seus emblemas conquistados. Além disso, também é possível compartilhar informações, pensamentos e anexar arquivos no seu mural, os quais apenas os seus amigos poderão visualizar e responder. Os arquivos anexados podem ser do tipo DOCS, PPTX, PDF e XLXS. Para anexar, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção ‘Escolher arquivo’, além disso, a caixa de texto não pode ficar em branco, então você deverá escrever algo e finalizar ao clicar em ‘Enviar’, representado pelo botão azul ao lado direito e inferior da caixa de comentários. Se você estiver na versão 1.0: Ao lado esquerdo da página inicial de acesso, você terá uma coluna de abas abaixo da sua foto de perfil. Entre tais abas existirá a opção ‘Meu mural’, a qual apresentará para você todas as suas interações, atualizações, comentários realizados por você em toda a plataforma, e os seus emblemas conquistados. Além disso, também é possível compartilhar informações, pensamentos e anexar arquivos no seu mural, os quais apenas os seus amigos poderão visualizar e responder. Os arquivos anexados podem ser do tipo DOCS, PPTX, PDF e XLXS. Para anexar, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção ‘Escolher arquivo’, além disso, a caixa de texto não pode ficar em branco, então você deverá escrever algo e finalizar ao clicar em ‘Enviar’, representado pelo botão azul ao lado direito e inferior da caixa de comentários. Caso deseje responder algum comentário já realizado, basta selecionar a opção ‘Responder’, digitar sua resposta ao comentário e clicar na opção abaixo ‘Enviar’, sinalizada pelo retângulo azul, ou ‘Cancelar’, sinalizada pelo retângulo cinza, caso queira cancelar o envio da sua mensagem."
+    },
+    {
+        "Título": "Meus contatos (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: A funcionalidade ‘Meus contatos’ está disponível na parte inferior esqurda da tela. Ao clicar em ‘Ver todos’, você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no ‘x’. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em ‘Conectar’ quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade ‘Sugestões de amizade’, disponível na parte inferior direita da página. Se você estiver na versão 1.0: Ao clicar em ‘Meus contatos’, você visualizará uma lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Nesta aba também é possível ampliar sua rede de contatos convidando amigos que já estão na plataforma. Basta clicar em ‘Convidar amigos’ e pesquisar pelo nome ou endereço de e-mail."
+    },
+    {
+        "Título": "Visão geral (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Em ‘Visão Geral’ o usuário é direcionado para a página inicial do Redu. Assim que feito o acesso ao Redu, você poderá visualizar a aba ‘Visão Geral’ na lateral esquerda da tela e também poderá visualizar a aba ‘Início’, no topo da página. Em ambas citadas, você terá no centro da página a visão geral do Redu, onde na parte superior você poderá encontrar suas solicitações de amizade pendentes; já do lado direito da plataforma encontrará o status do seu perfil, que indica porcentagem de conclusão das suas informações no perfil, outras informações sobre a plataforma, como o explore o Redu e a Central de Ajuda, disponível para lhe auxiliar  e informações adicionais, como indicações de contatos para você se conectar. Por fim, ao lado esquerdo, você irá visualizar opções que serão detalhadas ainda neste tópico."
+    },
+    {
+        "Título": "Mensagens (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Nesta aba você poderá visualizar, responder e deletar mensagens recebidas e enviadas entre sua rede de amigos. Também é possível enviar mensagens privadas para seus contatos ou ler mensagens que foram enviadas para você. Caso deseje enviar uma nova mensagem, basta buscar um contato na barra de pesquisa e clicar em seu nome. O chat com o contato selecionado será aberto ao lado direito. Após digitar sua mensagem, clique na seta azul do canto inferior direito para que sua mensagem seja enviada. O ícone 'i', disponível na parte superior direita do chat exibe as informações do contato, como os cursos em que ele está inscrito. Se você estiver na versão 1.0: Nesta aba você poderá visualizar, responder e deletar mensagens recebidas e enviadas entre sua rede de amigos. Também é possível enviar mensagens privadas para seus contatos ou ler mensagens que foram enviadas para você, ao selecionar a opção ‘Recebidas’. Para visualizar uma mensagem que você já enviou anteriormente, você poderá selecionar a opção ‘Enviadas’ para encontrá-la, mas caso deseje enviar uma nova mensagem, basta clicar na caixa azul ‘Nova mensagem’ no canto superior direito e informar para quem será destinada a mensagem, o assunto da mensagem e o corpo do texto."
+    },
+    {
+        "Título": "Ambientes (alunos)",
+        "Conteúdo": "Se você estiver na versão 2.0: Ao fazer login em sua conta do Redu, no lado superior direito da página você encontrará uma lista dos ambientes disponíveis para seu acesso. Caso esteja inscrito em muitos cursos, clique em ‘Ver todos’ para ter acesso à totalidade de cursos. Também é possível visualizar os ambientes na barra lateral esquerda, abaixo de ‘Meu perfil’. Se você estiver na versão 1.0: Podendo ser selecionado tanto no canto superior da tela quanto ao lado esquerdo da página, a opção ‘Ambientes’, quando selecionada, serão apresentados os ambientes que você faz parte  e o número dos ambientes no total. Cada ambiente possui a miniatura de sua foto e ao lado o nome daquele ambiente, abaixo dele você poderá visualizar os cursos existentes dentro deste ambiente e ao clicar na seta apontada para baixo, ao lado esquerdo do nome do curso, serão apresentadas as disciplinas dentro de cada um dos cursos existentes naquele ambiente."
+    },
+    {
+        "Título": "Cursos acessados recentemente (aluno)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado esquerdo da página inicial, logo abaixo de configurações é possível visualizar os três últimos cursos acessados recentemente. Sendo possível, assim, localizar o curso desejado com mais facilidade."
+    },
+    {
+        "Título": "Configurações (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Selecione a barra lateral esquerda e escolha a opção ‘Configurações’. Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página. Se você estiver na versão 1.0: Selecione ‘Editar’ nessa aba para alterar as informações que estarão disponibilizadas no seu perfil na aba ‘Perfil’ (como foto, nome, biografia, data de nascimento e informações adicionais) e salve as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página."
+    },
+    {
+        "Título": "Barra de pesquisa (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para realizar uma pesquisa na plataforma, basta encontrar no canto superior direito da tela, uma barra de pesquisa, sinalizada pela imagem de uma lupa e algumas linhas. Para finalizar sua pesquisa, basta clicar no conteúdo desejado. Se você estiver na versão 1.0: Para realizar uma pesquisa na plataforma, basta encontrar no canto superior direito da tela, uma barra de pesquisa, sinalizada pela imagem de uma lupa ao lado direito da barra. Ao lado esquerdo da barra encontrada, você poderá filtrar qual tipo de pesquisa você deseja realizar, podendo ser uma busca geral, busca por ambientes ou uma busca por perfil de um usuário. Para finalizar sua pesquisa, basta selecionar a lupa ao lado direito ou a tecla ‘enter’ do seu teclado."
+    },
+    {
+        "Título": "Status do perfil (aluno)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo da caixa de pesquisa, é possível visualizar o status de informações do seu perfil. Isso diz respeito a dados preenchidos pelo próprio usuário, por exemplo, foto, profissão, idiomas, biografia, etc."
+    },
+    {
+        "Título": "Explore o Redu (aluno)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: No lado direito da página inicial, abaixo de ‘Status do perfil’, ao clicar em ‘Explore a Redu’, você tem acesso a um esquema explicativo sobre o funcionamento dos ambientes da Redu."
+    },
+    {
+        "Título": "Saiba mais - central de ajuda (aluno)",
+        "Conteúdo": {
+            "v2":{
+                "Se você estiver na versão 2.0": "Ao lado direito da página inicial, abaixo de ‘Mensagens’, encontramos a aba ‘Central de Ajuda’, em que é possível ler mais informações sobre o que é possível fazer com a Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo guias de funcionamento da Redu e opções de atendimento online.",
+                "Guia Básico": "Nesta aba é possível ter acesso a orientações sobre os primeiros passos na plataforma, como, por exemplo, a efetuação do cadastro e edições de informações do perfil.",
+                "Guia do Gestor": "Nesta aba é possível entender as atribuições do gestor no ambiente, o processo de convidar alunos para o curso e demais informações de gerenciamento.",
+                "Guia do Aluno": "Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "Guia do Professor":" Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "Guia do Desenvolvedor": "Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "mais": "[https://ajuda.redu.digital/]"
+            },
+            "v1":{
+                "Se você estiver na versão 1.0": "Ao lado direito da página inicial, abaixo de ‘Explore a Redu’, encontramos a aba ‘Saiba mais’, em que é possível ler mais informações sobre o que é possível fazer com a Redu e ter suas dúvidas respondidas. Ao clicar, você será redirecionado para outra página contendo uma barra de pesquisa, guias de funcionamento do Redu e opções de atendimento online.",
+                "Índice": "Em ‘Índice’ temos uma visão geral das opções de suporte para dúvidas e esclarecimentos.",
+                "Dúvidas Frequentes": "Nesta aba é possível encontrar respostas para dúvidas frequentes sobre o Redu em geral e suas funcionalidades.",
+                "Guia Básico": "Nesta aba é possível ter acesso a orientações sobre os primeiros passos na plataforma, como, por exemplo, a efetuação do cadastro e edições de informações do perfil.",
+                "Guia do Gestor": "Nesta aba é possível entender as atribuições do gestor no ambiente, o processo de convidar alunos para o curso e demais informações de gerenciamento.",
+                "Guia do Aluno": "Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "Guia do Professor": "Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "Guia do Desenvolvedor": "Nesta aba é possível ter acesso aos canais de atendimento online e central de ajuda do Redu.",
+                "mais": "[https://ajuda.redu.digital/]"
+            }
+        }
+    },
+    {
+        "Título": "Guia básico (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Nesta aba é possível ter acesso a orientações sobre os primeiros passos na plataforma, como, por exemplo, a efetuação do cadastro e edições de informações do perfil."
+    },
+    {
+        "Título": "Conecte-se (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Ao lado direito da página inicial de acesso, logo abaixo do item ‘Saiba mais’, é possível encontrar a aba ‘Conecte-se’, que diz respeito a sugestões de amizade na plataforma. Serão exibidos os perfis de amigos prováveis, caso deseje conectar-se com eles, basta clicar em ‘Adicionar’. A partir disso, é só esperar o outro usuário aceitar o convite e você verá atualizações dele em sua página inicial."
+    },
+    {
+        "Título": "Fale conosco (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: No rodapé da página inicial da Redu, é possível encontrar a aba ‘Fale conosco’. Ao clicar, o usuário é redirecionado para outra página, contendo campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento a Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada. Se você estiver na versão 1.0: No rodapé de todas as páginas da Redu, é possível encontrar a aba ‘Fale conosco’. Ao clicar, o usuário é redirecionado para outra página, contendo campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento a Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada."
+    },
+    {
+        "Título": "Opções do usuário (aluno)",
+        "Conteúdo": {
+            "v2":{
+                "Se você estiver na versão 2.0": "Se você estiver na versão 2.0: O ícone de uma lupa e uma lista presente no lado superior esquerdo da tela contempla algumas funções básicas de usuário, são elas",
+                "Página inicial": "Nesta botão é possível ter a visão geral da plataforma. Nela está o mural geral, seus ambientes, suas conquistas, solicitações e sugestões de amizade e muito mais. Caso esteja em outra tela e deseje retornar à página inicial, basta clicar nesta opção.",
+                "Meus ambientes": "Este botão leva o usuário a uma lista dos ambientes disponíveis para seu acesso.",
+                "Conquistas": "Em ‘Conquistas’ o usuário irá visualizar os emblemas conquistados em decorrência da sua interação com a plataforma. Os emblemas estão organizados em várias categorias, ao clicar em alguma delas, é possível visualizar os nomes dos emblemas conquistados.",
+                "Contatos":"Neste botão você visualizará sua lista de amigos da plataforma. Se desejar, você pode clicar no nome do amigo de sua escolha e ser redirecionado para o perfil dele. Também é possível excluir uma amizade ao clicar no ‘X’. Para fazer uma nova amizade é preciso digitar o nome do usuário na barra de pesquisa geral e clicar em ‘Conectar’ quando encontrar o usuário desejado. Novas amizades também podem ser feitas através da funcionalidade ‘Sugestões de amizade’, disponível na parte inferior direita da página.",
+                "Central de ajuda": "Ao clicar neste botão, o usuário é redirecionado para a página do ‘Fale conosco’. Esta página contém campos que devem ser preenchidos, como nome, e-mail, assunto, mensagem, entre outros. Uma vez preenchido e enviado, o formulário será acessado pela equipe de atendimento a Redu, que manterá contato com o usuário por e-mail até que sua dúvida seja solucionada. Abaixo desta aba é possível encontrar o manual da plataforma.",
+                "Configurações": "Nesta aba você poderá alterar as informações que estarão disponibilizadas no seu perfil e salvar as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página.",
+                "Sair": "Selecione ‘Sair’ para sair da sua conta do Redu. Você será redirecionado para a tela de login."
+            },
+            "v1":{
+                "Se você estiver na versão 1.0": "O ícone de um boneco ao lado de uma seta para baixo, presente no lado superior direito da tela contempla algumas funções básicas de usuário no lado superior direito, são elas:",
+                "Meu perfil": "Selecione ‘Editar’ nessa aba para alterar as informações que estarão disponibilizadas no seu perfil na aba ‘Perfil’ (como foto, nome, biografia, data de nascimento e informações adicionais) e salve as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página.",
+                "Mensagens": "Nessa aba será possível que você envie mensagens privadas para seus contatos ou leia mensagens que foram enviadas para você, ao selecionar a opção ‘Recebidas’. Para visualizar uma mensagem que você já enviou anteriormente, você poderá selecionar a opção ‘Enviadas’ para encontrá-la, mas caso deseje enviar uma nova mensagem, basta clicar na caixa azul ‘Nova mensagem’ no canto superior direito e informar para quem será destinada à mensagem, o assunto da mensagem e o corpo do texto.",
+                "Configurações": "Selecione ‘Editar’ nessa aba para alterar as informações que estarão disponibilizadas no seu perfil na aba ‘Perfil’ (como foto, nome, biografia, data de nascimento e informações adicionais) e salve as alterações no botão azul ao lado direito inferior da página. Ou, para alterar a visibilidade do seu mural, seu e-mail ou sua senha de acesso, selecione a aba ‘Conta’ e salve as alterações no botão azul ao lado direito inferior da página.",
+                "Sair": "Selecione ‘Sair’ para sair da sua conta do Redu. Você será redirecionado para a tela de login."
+            }
+        }
+    },
+    {
+        "Título": "Listar ambientes (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Ao fazer login em sua conta da Redu, ao lado esquerdo so seu monitor, você encontrará abas como ‘Início’ e ‘Ambientes’.  Para visualizar a lista dos ambientes disponíveis para seu acesso, clique na aba ‘Ambientes’, assim será possível encontrar os ambientes aos quais você pertence. Para ‘Início’, basta clicar no logo da Redu, no topo da página. Você também pode acessar seus ambientes através da lista de ambientes que existe na redu, ao lado direito da sua tela. Se você estiver na versão 1.0: Ao fazer login em sua conta da Redu, no topo da página você encontrará duas abas: ‘Início’ e ‘Ambientes’.  Para visualizar a lista dos ambientes disponíveis para seu acesso, clique na aba ‘Ambientes’ e  encontrará os ambientes aos quais você pertence. Para voltar para página inicial, basta clicar em ‘Início’."
+    },
+    {
+        "Título": "Detalhar ambiente (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para detalhar o ambiente no qual você está inserido, você deve selecioná-lo, e assim as informações sobre esse ambiente em específico serão apresentadas, tais como: cursos e membros. Se você estiver na versão 1.0: Para detalhar o ambiente no qual você está inserido, você deve selecioná-lo, e assim as informações sobre esse ambiente em específico serão apresentadas, tais como: cursos e membros."
+    },
+    {
+        "Título": "Listar membros do ambiente (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar os membros existentes em um ambiente você deverá selecionar o ambiente em questão e clicar em ‘membros’, abaixo de ‘conteúdo’, na barra lateral esquerda. Ao selecionar essa opção, você poderá opta, por visualizar ‘todos’, apenas ‘professores’, ‘tutores’ ou ‘alunos’. Também é possível buscar um usuário na barra de busca e visualizar um perfil clicando nele. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção ‘mostrar mais…’ representada com uma seta apontada para baixo. Se você estiver na versão 1.0: Para visualizar os membros existentes em um ambiente você deverá selecionar o ambiente em questão e ao lado da opção ‘cursos’, você deverá clicar no item ao lado, representado por três pessoas. Ao selecionar essa opção de ‘membros do ambiente’, você poderá optar, logo abaixo, por visualizar ‘todos’, apenas ‘professores’, ‘tutores’ ou ‘alunos’. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção ‘mostrar mais…’ representada com uma seta apontada para baixo."
+    },
+    {
+        "Título": "Gerar certificado (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Para gerar um certificado após concluir o curso desejado, você deverá, em ‘Ambientes’, visualizar o curso concluído no ambiente no qual você deseja obter o certificado e selecionar, ao lado direito da página, a opção ‘Gerar Certificado’."
+    },
+    {
+        "Título": "Classificação dos alunos no ambiente (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar a classificação nos ambientes, você deve clicar no ambiente que deseja visualizar para ser redirecionado a uma nova aba. Nessa aba, ao lado esquerdo da tela, você observará o botão ‘Classificação’. Ao clicar no botão ‘Classificação’, você terá acesso a informações como posição, nome e pontuação do usuário do Ambiente.  Se você estiver na versão 1.0: Para visualizar a classificação dos alunos no ambiente, você deverá selecionar o ambiente em questão e ao lado da opção ‘Ambientes’, você deverá clicar no item ao lado, representado por um pódio. Ao selecionar essa opção de Classificação dos alunos, você encontrará três colunas, sendo elas: posição, aluno e pontuação. Ao passar o cursor do mouse, o aluno e sua posição serão expandidos e você poderá selecionar para acessar o perfil do usuário. Além disso, ao descer a página, você poderá avançar a lista de classificação adiante, para visualizar o restante do ranking."
+    },
+    {
+        "Título": "Listar cursos (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar os cursos existentes em um certo ambiente, você deverá selecionar o ambiente de sua escolha e eles serão apresentados em blocos, um ao lado do outro. Se você estiver na versão 1.0: Para visualizar os cursos existentes em um certo ambiente, você deverá selecionar o ambiente de sua escolha e eles serão apresentados em blocos, um abaixo do outro. Outra forma de visualizar a lista de cursos de um ambiente é selecionar a aba ‘Ambientes’ no canto superior da plataforma e eles aparecerão logo abaixo do nome do ambiente, ao lado de uma setinha apontada para baixo."
+    },
+    {
+        "Título": "Detalhar curso (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Para detalhar algum curso, você deve selecioná-lo e, assim, as informações sobre esse curso em específico serão apresentadas, tais como: disciplinas cadastradas nele e membros."
+    },
+    {
+        "Título": "Listar membros do curso (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Para visualizar os membros existentes em um curso, você deverá selecionar o curso em questão e ao lado da opção ‘Disciplinas’, você deverá clicar no item ao lado, representado por três pessoas. Ao selecionar essa opção de ‘Membros do Curso’, você poderá optar, logo abaixo, por visualizar ‘Todos’, apenas ‘Professores’, ‘Tutores’ ou ‘Alunos’. Caso deseje visualizar mais membros do que estão sendo apresentados, basta descer a página e selecionar a opção ‘Mostrar mais…’ representada com uma seta apontada para baixo."
+    },
+    {
+        "Título": "Classificação dos alunos no curso (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso que deseja acessar informações. Ao lado esquerdo da sua tela, será possível visualizar o botão ‘Classificação’. Clicando nesse botão, você será redirecionado para a aba de classificação, que possui posição, nome e pontuação de cada  usuário no curso. Se você estiver na versão 1.0: Para visualizar a classificação dos alunos no curso, você deverá selecionar o curso em questão e ao lado da opção ‘Cursos’, você deverá clicar no item ao lado, representado por um pódio. Ao selecionar essa opção de Classificação dos alunos, você encontrará três colunas, sendo elas: posição, aluno e pontuação. Ao passar o cursor do mouse, o aluno e sua posição serão expandidos e você poderá selecionar para acessar o perfil do usuário. Além disso, ao descer a página, você poderá avançar a lista de classificação adiante, para visualizar o restante do ranking."
+    },
+    {
+        "Título": "Abandonar curso (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Se você estiver na versão 1.0: Caso deseje abandonar um curso no qual está inserido, basta selecionar o curso de sua escolha e ao lado direito da página, ao lado do nome ‘Disciplinas’ haverá a opção ‘Abandonar Curso’. Basta selecionar essa opção que irá aparecer uma notificação pop up no seu dispositivo, perguntando se você tem certeza que deseja abandonar o curso, tendo em vista que a ação não poderá ser desfeita. Dessa forma, você deverá selecionar ‘OK’ se desejar abandoná-lo definitivamente ou ‘Cancelar’ para se manter no mesmo."
+    },
+    {
+        "Título": "Listar disciplinas (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar as disciplinas existentes em um certo curso, você deverá selecionar o ambiente, em seguida o curso de sua escolha e as disciplinas serão apresentados em blocos, uma ao lado da outra. Se você estiver na versão 1.0: Para visualizar as disciplinas existentes em um certo curso, você deverá selecionar o curso de sua escolha e elas serão apresentadas sinalizadas por ‘livrinhos’ e cada uma terá um bloco próprio informando resumidamente sobre a quantidade de conteúdo existente naquela disciplina, o número de comentários no mural da disciplina e se existem arquivos de apoio disponibilizados nela, respectivamente. Outra forma de visualizar a lista de disciplinas de um curso é selecionar a aba ‘ambientes’ no canto superior da plataforma e elas aparecerão abaixo do nome do curso. Quando você selecionar a seta apontada para baixo (ao clicar nessa seta, ela apontará para cima), serão dispostas na página as disciplinas existentes naquele curso, representadas por ‘livrinhos’."
+    },
+    {
+        "Título": "Detalhar disciplina (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para detalhar uma disciplina na qual você está inserido, você deve selecioná-la, assim as informações sobre essa disciplina em específico serão apresentadas, tais como: conteúdo, referente à seleção de módulo, discussão, membros e aulas. Se você estiver na versão 1.0: Para obter detalhes da disciplina, você deverá selecioná-la e dentro dela estarão dispostos os conteúdos ou as aulas que foram cadastradas. Se você deseja acessar o mural da disciplina ou os arquivos de apoio, você deverá acessar o curso do qual essa disciplina faz parte e essas informações serão dispostas no bloco de cada disciplina; localize a disciplina de sua escolha e selecione a opção que deseja."
+    },
+    {
+        "Título": "Mural da Disciplina",
+        "Conteúdo": "Nesta aba serão encontradas todas as ações ocorridas na disciplina e todos os membros pertencentes à mesma poderão comentar no mural e visualizar os comentários dos colegas. Existe também a funcionalidade de anexar arquivos no mural. Para isso, você deverá clicar na caixa localizada na parte superior da tela e selecionar a opção ‘Inserir arquivo’ finalizando ao clicar em ‘Enviar’ representado pelo botão azul ao lado direito e inferior da caixa de comentários."
+    },
+    {
+        "Título": "Anexar arquivos",
+        "Conteúdo": "Para anexar um material, do seu aparelho nos comentários de uma aula em específico, você deverá descer a página da aula e selecionar a opção ‘Comentar’ e logo após a opção ‘Escolher arquivo’ finalizando ao clicar em ‘Enviar’ representado pelo botão azul ao lado direito e inferior da caixa de comentários."
+    },
+    {
+        "Título": "Arquivos de apoio",
+        "Conteúdo": "Nesta aba serão disponibilizados os arquivos de apoio adicionados pelos professores, administradores do ambiente ou tutores. OBS.: é possível adicionar arquivos de apoio na disciplina de sua escolha. Para isso, você deverá acessar o curso no qual essa disciplina está inserida, localizar a mesma e clicar em ‘arquivos de apoio’ ao lado direito, no bloco. Ao selecionar essa opção, você poderá criar uma pasta, excluir ou renomear alguma pasta já existente e, além disso, fazer upload de algum arquivo de apoio diretamente do seu computador para que fique disponível na plataforma para os alunos."
+    },
+    {
+        "Título": "Listar módulos (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para visualizar os módulos existentes em uma disciplina, você deverá selecionar o ambiente, o curso e a disciplina de sua escolha. Em seguida, você visualizará uma seleção de módulos existentes. Se você estiver na versão 1.0: Para visualizar os módulos existentes em uma certa disciplina, você deverá selecionar a disciplina de sua escolha e eles serão apresentadas sinalizadas por ‘livrinhos’."
+    },
+    {
+        "Título": "Detalhar módulos (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para detalhar um módulo no qual você está inserido, você deve selecioná-lo, assim as informações sobre esse módulo em específico serão apresentadas, tais como: aulas, discussão e membros. Também é possível visualizar o progresso no módulo, disponível nao lado do nome do módulo. Se você estiver na versão 1.0: Para obter detalhes do módulo selecionado, basta selecionar a seta orientada para baixo, existente no retângulo cinza que engloba o módulo. Ao selecionar essa opção serão apresentadas as aulas existentes dentro daquele módulo e a quantidade das mesmas."
+    },
+    {
+        "Título": "Progresso do módulo (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para acompanhar o seu progresso do módulo, você deverá selecionar a disciplina de sua escolha e depois deverá clicar na caixa de seleção para escolher seu módulo. O progresso dele estará ao lado em formato de círculo, indicando a porcentagem concluída até o momento. Se você estiver na versão 1.0: Para acompanhar o seu progresso do módulo, você deverá selecionar a disciplina de sua escolha, dentro dela serão listados os módulos em retângulos cinza, e ao lado direito do retângulo de cada módulo será apresentada a barra de progresso do seu usuário, naquele módulo."
+    },
+    {
+        "Título": "Acessar aula (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para acessar uma aula, você deverá localizar o ambiente em que você está inscrito, ao clicar, selecione a disciplina desejada. Em seguida, você visualizará os módulos da disciplina e ao clicar no nome do módulo desejado, será exibido blocos quadrados com as aulas disponíveis, a partir disso você poderá clicar na aula de sua preferência e já estará acessando o conteúdo desejado. Se você estiver na versão 1.0: Para acessar uma aula, você deverá localizar o ambiente em que você está inscrito, ao clicar, selecione a disciplina desejada. Em seguida, você visualizará os módulos da disciplina e ao clicar no nome do módulo desejado, será exibida uma lista com as aulas disponíveis, a partir disso você poderá clicar na aula de sua preferência e já estará acessando o conteúdo desejado."
+    },
+    {
+        "Título": "Avaliar as aulas (aluno)",
+        "Conteúdo": "Esta funcionalidade está disponível apenas na versão 1.0: Ao acessar uma aula você pode deixar a sua avaliação do conteúdo através da classificação por estrelas. Esta funcionalidade, que dispõe de 5 estrelas avaliativas, está localizada logo acima do nome da aula, no lado direito da tela. Basta clicar na estrela desejada e já terá avaliado."
+    },
+    {
+        "Título": "Comentar, pedir ajuda na aula e ver arquivos (aluno)",
+        "Conteúdo": "Se você estiver na versão 2.0: Para comentar ou pedir ajuda em uma aula, você deverá observar o mural de comentários na parte da direita da página e clicar na caixa de texto para escrever a mensagem e deixar seu comentário. Para pedir ajuda, ainda abaixo dessa caixa de texto, terá a opção com um ícone de pessoa levantando a mão, é só clicar e ele ficará laranja, sinalizando o pedido. Caso deseje, você ainda pode inserir arquivos no botão ‘inserir arquivos’, em seguida, clique em ‘enviar’. Se você estiver na versão 1.0: Para comentar ou pedir ajuda em uma aula você deverá descer a página até abaixo da aula e localizar os botões correspondentes. Em seguida, escreva sua dúvida ou comentário, caso deseje você ainda pode inserir arquivos no botão ‘inserir arquivos’, em seguida, clique em ‘enviar’."
+    }
+]
